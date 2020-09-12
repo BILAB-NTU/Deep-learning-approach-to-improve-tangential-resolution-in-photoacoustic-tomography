@@ -9,9 +9,8 @@ pip install -r requirements.txt
 
 ```
 ## Datasets
-The datasets used for this study can be downloaded from the following link
-```
-```
+The datasets used for this study can be downloaded from the following link: https://osf.io/mcjk9/?view_only=898efa10d0944376a5970e91ccd1b7d0
+
 ## Training
 For training the model use the python script
 ```
